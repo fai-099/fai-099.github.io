@@ -10,14 +10,14 @@ Find your **username** in your GitHub profile URL: `https://github.com/fai-099`.
 
 ## 2. Open the existing repository
 
-The account is **fai-099** and the repository is **fai-099**:
+The account is **fai-099** and the repository is **fai-099.github.io**:
 
-- Repository: https://github.com/fai-099/fai-099
-- Website: https://fai-099.github.io/fai-099/
+- Repository: https://github.com/fai-099/fai-099.github.io
+- Website: https://fai-099.github.io/
 - Publishing branch: `main`
 - Publishing folder: `/(root)`
 
-Keep the existing repository name. Because this is a project site, the website URL includes `/fai-099/`. The code uses relative asset paths and supports this URL.
+The repository name must be exactly `fai-099.github.io` to publish the personal website at the root address `https://fai-099.github.io/`. The account username stays `fai-099`.
 
 ## 3. Extract the ZIP on your computer
 
@@ -48,7 +48,7 @@ Keep the folders and filenames exactly as supplied. The `docs` folder contains t
 
 ## 4. Upload the extracted website
 
-1. Open https://github.com/fai-099/fai-099 on GitHub and open its **Code** tab.
+1. Open https://github.com/fai-099/fai-099.github.io on GitHub and open its **Code** tab.
 2. Click **Add file → Upload files** above the file list.
 3. In your computer's file manager, open the extracted website folder.
 4. Select its **contents**: `index.html`, `assets`, `docs`, `README.md`, and `.nojekyll` if visible. Drag that selection into GitHub's upload area. Dragging the `assets` and `docs` folders preserves their internal paths.
@@ -80,7 +80,7 @@ For this website, select **/(root)**. The `/docs` option would point to the CV/p
 
 ## 6. Open your published website
 
-Return to **Settings → Pages** and open the website URL shown there. For this repository, it is `https://fai-099.github.io/fai-099/`.
+Return to **Settings → Pages** and open the website URL shown there. For this repository, it is `https://fai-099.github.io/`.
 
 Publishing can take up to 10 minutes after a change, according to [GitHub's quickstart](https://docs.github.com/en/pages/quickstart). The repository's **Actions** tab shows deployment progress. If a run fails, open it and read the failed step.
 

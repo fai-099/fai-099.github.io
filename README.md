@@ -2,7 +2,7 @@
 
 Lecturer in Computer Science at the University College of Management and Sciences, Khanewal, Pakistan.
 
-[Personal website](https://fai-099.github.io/fai-099/) · [LinkedIn](https://www.linkedin.com/in/muhammad-faisal-sohail-1b90061ab/) · [Email](mailto:faisal.sohail099@gmail.com) · [Download CV](docs/cv_SOHAILfaisal.pdf)
+[Personal website](https://fai-099.github.io/) · [LinkedIn](https://www.linkedin.com/in/muhammad-faisal-sohail-1b90061ab/) · [Email](mailto:faisal.sohail099@gmail.com) · [Download CV](docs/cv_SOHAILfaisal.pdf)
 
 My research interests are **computer vision**, **machine learning**, and **applied AI**, including camera localization, 3D reconstruction, visual recognition, and intelligent healthcare systems.
 
@@ -15,7 +15,7 @@ The personal website contains my publications, research projects, education, tea
 
 ## Website maintenance
 
-This repository also hosts the website at **https://fai-099.github.io/fai-099/**.
+This repository also hosts the website at **https://fai-099.github.io/**.
 
 - GitHub Pages: publish `main` from `/(root)`.
 - Homepage: `index.html`.
